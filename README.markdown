@@ -8,12 +8,10 @@
 
  * Download [fftw3](http://www.fftw.org/download.html) and install to /usr (build-time dependency):
 
-<pre>
-	wget http://www.fftw.org/fftw-3.2.2.tar.gz
-	tar xzf fftw-3.2.2.tar.gz && cd fftw-3.2.2
-	./configure --prefix=/usr
-	make && make install
-</pre>
+     wget http://www.fftw.org/fftw-3.2.2.tar.gz
+     tar xzf fftw-3.2.2.tar.gz && cd fftw-3.2.2
+     ./configure --prefix=/usr
+     make && make install
 
  * You need [Qt 4.6](http://qt.nokia.com/products/platform/maemo) installed in scratchbox to proceed.
  
