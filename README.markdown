@@ -20,6 +20,6 @@
  
    `qmake && make`
    
- * Copy to device, make sure you have Qt 4.6 installed on the device.  If you have both 4.5 and 4.6, move 4.5 from the linker path and set env `LD_LIBRARY_PATH` to qt4.6 directory.  *NOTE*: you won't need to worry about it on PR 1.2 :)
+ * Copy `AudeliciousQT` file to the device, make sure you have *Qt 4.6* installed on the device.  If you have both *4.5* and *4.6*, move *4.5* away from `/usr/lib` to a temporary directory and set env `LD_LIBRARY_PATH` to *qt4.6* directory.  *NOTE*: you won't need to worry about it on *PR 1.2* :)
  
  * run `./AudeliciousQT` from the terminal or install `.desktop` file to application manager.  Enjoy!
