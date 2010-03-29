@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="background.jpg">images/background.jpg</file>
+        <file alias="spectrum.jpg">images/spectrum.jpg</file>
+        <file alias="amplitude.jpg">images/amplitude.jpg</file>
+        <file alias="btn_sensitivity1.png">images/btn_sensitivity1.png</file>
+        <file alias="btn_sensitivity2.png">images/btn_sensitivity2.png</file>
+        <file alias="btn_sensitivity3.png">images/btn_sensitivity3.png</file>
+        <file alias="btn_range1.png">images/btn_range1.png</file>
+        <file alias="btn_range2.png">images/btn_range2.png</file>
+        <file alias="btn_color1.png">images/btn_color1.png</file>
+        <file alias="btn_color2.png">images/btn_color2.png</file>
+        <file alias="btn_color3.png">images/btn_color3.png</file>
+        <file alias="btn_color4.png">images/btn_color4.png</file>
+        <file alias="btn_color5.png">images/btn_color5.png</file>
+        <file alias="btn_color6.png">images/btn_color6.png</file>
+        <file alias="spectrum1khz.jpg">images/spectrum1khz.jpg</file>
+    </qresource>
+</RCC>
